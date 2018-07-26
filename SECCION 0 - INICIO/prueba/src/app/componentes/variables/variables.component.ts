@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class VariablesComponent implements OnInit {
 
-  nombre:String='Logan';
+  nombre:string='Logan';
   nota:number=10;
 
   constructor() { }
