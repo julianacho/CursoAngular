@@ -1,0 +1,10 @@
+-- Levantar angular
+ng serve
+ng serve -p 4201 // personaliza el puerto
+ng serve -o // Para que se levante con el servidor
+
+-- descargar los modulos nuevamente
+npm install
+
+-- crear componentes
+ng g c componentes/navbar   // donde navvar es el nombre del componente y componentes es la caprte en donde se deja
